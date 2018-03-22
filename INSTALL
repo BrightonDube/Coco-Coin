@@ -1,0 +1,9 @@
+Building GoatCheese
+
+See doc/readme-qt.rst for instructions on building GoatCheese QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GoatCheese.
+
+See doc/build-*.txt for instructions on building goatcheesed,
+the intended-for-services, no-graphical-interface, reference
+implementation of GoatCheese.

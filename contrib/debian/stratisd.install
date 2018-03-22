@@ -1,0 +1,2 @@
+debian/bin/goatcheesed usr/bin
+src/goatcheesed usr/lib/goatcheese
