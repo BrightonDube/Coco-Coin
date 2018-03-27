@@ -1,3 +1,7 @@
 !.gitignore
 /build
 /Makefile
+/debug
+/release
+/Makefile.Debug
+/Makefile.Release
