@@ -1,4 +1,4 @@
 obj/version.o: version.cpp version.h clientversion.h \
- /home/fray/Desktop/GoatCheese/src/obj/build.h
+ /home/fray/Documents/GoatCheese/src/obj/build.h
 version.cpp version.h clientversion.h :
- /home/fray/Desktop/GoatCheese/src/obj/build.h :
+ /home/fray/Documents/GoatCheese/src/obj/build.h :
