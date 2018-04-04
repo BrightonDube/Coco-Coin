@@ -1,5 +1,7 @@
 
-GoatCheese Interim Wallet
+Coco Coin is the utility coin of the Coco Exchange. All transactions on Coco Exchange 
+are paid for using the Coco coin. Holders of 200 or more Coco coins will enjoy free trades on the 
+platform. 
 
 Development process
 ===========================
